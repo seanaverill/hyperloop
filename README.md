@@ -1,2 +1,3 @@
-# hyperloop
-Design Documents for Hyperloop Pod 2017
+# Drexel Hyperloop
+
+This Repo contains the design documents for the Drexel University Hyperloop Pod of 2017.
